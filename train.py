@@ -1,4 +1,4 @@
-####xjx train master     update
+####xjx train edge branch  update
 import argparse
 import time
 import yaml
